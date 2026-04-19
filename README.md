@@ -6,6 +6,8 @@
 **Desarrollado por:** Kaleth Corcho  
 **Lenguaje:** Bash (.sh)  
 **Propósito:** Auditoría y prueba de vulnerabilidades en servicios SSH
+<img width="1920" height="1080" alt="Captura de pantalla_2026-04-19_09-30-59" src="https://github.com/user-attachments/assets/c9b48b85-1a14-4cc0-9271-6840f2cf657c" />
+<img width="1920" height="1080" alt="Captura de pantalla_2026-04-19_09-30-14" src="https://github.com/user-attachments/assets/204ff396-2c4b-42cb-b688-6cc8c6f1c7d6" />
 
 ---
 
