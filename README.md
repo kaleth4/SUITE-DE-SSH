@@ -1,6 +1,6 @@
-# README.md - Script de Automatización para Servicios SSH
+# Script de Automatización para Servicios SSH
 
-```markdown
+
 # 🔐 SSH Automation Pro v1.2
 
 **Desarrollado por:** Kaleth Corcho  
@@ -232,10 +232,7 @@ qwerty
 ---
 
 ## 📞 Soporte
-
-Para reportar bugs o sugerencias:
-- 📧 Email: kaleth.corcho@example.com
-- 🐙 GitHub: [repositorio]
+3505416339
 
 ---
 
@@ -245,7 +242,7 @@ MIT License - Uso libre con atribución
 
 ---
 
-**Última actualización:** Enero 2024  
+**Última actualización:** Enero 2026 
 **Versión:** 1.2
 ```
 
